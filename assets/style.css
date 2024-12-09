@@ -118,6 +118,7 @@ body {
     border-radius: var(--border-radius-circle);
     margin-right: 1.25rem;
     border: 3px solid var(--primary-color);
+    object-fit: cover;
 }
 
 .profile-info h1 {
